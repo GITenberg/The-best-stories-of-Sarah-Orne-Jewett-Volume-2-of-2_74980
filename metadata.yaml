@@ -1,0 +1,50 @@
+_repo: The-best-stories-of-Sarah-Orne-Jewett-Volume-2-of-2_74980
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+  editor:
+    agent_name: Cather, Willa
+    aliases:
+    - Cather, Willa Sibert
+    - Cather, Wilella
+    - Catherová, Willa
+    - Catherova, Willa
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: https://en.wikipedia.org/wiki/Willa_Cather
+description: ''
+gutenberg_issued: '2024-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74980'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006674555
+pgterms:marc905: 20240331154220jewett
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bHoughton Mifflin Co., $c1899, copyright 1910, copyright
+  1924, copyright 1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A white heron -- The flight of Betsey Lane -- The Dulham ladies --
+  Going to Shrewsbury -- The only rose -- Miss Tempy's watchers -- Martha's lady --
+  The guest of Mrs. Timms -- The town poor -- The Hiltons' holiday -- Aunt Cynthy
+  Dallett.
+title: The best stories of Sarah Orne Jewett, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/74980
